@@ -42,7 +42,7 @@ We welcome contributions from everyone. Please create a pull request or open an 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 
 ## Contact
 
